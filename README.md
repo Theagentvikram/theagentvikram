@@ -49,7 +49,7 @@ Here are some of my notable projects:
    - Technologies used: List of technologies/tools used.
    - [GitHub Repository](https://github.com/Theagentvikram/FakeNewsDetection)
 
-2. [**Background Remover Tool**](backghttps://backgroundremover.streamlit.app/)
+2. [**Background Remover Tool**](https://backgroundremover.streamlit.app/)
    - Description: Short description of the project.
    - Technologies used: List of technologies/tools used.
    - [GitHub Repository](https://github.com/Theagentvikram/BackgroundRemover)
