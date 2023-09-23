@@ -45,16 +45,16 @@ As a passionate Python Developer and Content Writer at [Techabhee.com](https://w
 
 Here are some of my notable projects:
 
-1. [Fake News Detection](https://fakenewsdetection.streamlit.app/)
+1. [**Fake News Detection**](https://fakenewsdetection.streamlit.app/)
    - Technologies used: List of technologies/tools used.
    - [GitHub Repository](https://github.com/Theagentvikram/FakeNewsDetection)
 
-2. [Background Remover Tool](backghttps://backgroundremover.streamlit.app/)
+2. [**Background Remover Tool**](backghttps://backgroundremover.streamlit.app/)
    - Description: Short description of the project.
    - Technologies used: List of technologies/tools used.
    - [GitHub Repository](https://github.com/Theagentvikram/BackgroundRemover)
 
-3. [Tic Tac Toe Game](tictactoe.streamlit.app)
+3. [**Tic Tac Toe Game**](tictactoe.streamlit.app)
    - Description: Short description of the project.
    - Technologies used: List of technologies/tools used.
    - [GitHub Repository](https://github.com/Theagentvikram/TicTacToe)
@@ -63,12 +63,12 @@ Here are some of my notable projects:
 
 I have earned certifications in various fields. Here are some of them:
 
-1. [Object Oriented Programming Java ](https://udemy-certificate.s3.amazonaws.com/image/UC-f9d74719-04f6-4ca9-9f96-18d0471c0f07.jpg)
+1. [**Object Oriented Programming Java**](https://udemy-certificate.s3.amazonaws.com/image/UC-f9d74719-04f6-4ca9-9f96-18d0471c0f07.jpg)
    - Issued by [Udemy]
    - Date of Completion: [Nov 2022]
    - Description: Java Programming Concepts and Object Oriented Programming Through Java.
 
-2. [Advanced Databases and SQL Querying](https://udemy-certificate.s3.amazonaws.com/image/UC-14dcc422-75fc-416f-9ff8-f4efb74b5f0b.jpg)
+2. [**Advanced Databases and SQL Querying**](https://udemy-certificate.s3.amazonaws.com/image/UC-14dcc422-75fc-416f-9ff8-f4efb74b5f0b.jpg)
    - Issued by [Udemy]
    - Date of Completion: [Oct 2022]
    - Description: Brief description of the certification and its relevance.
