@@ -15,7 +15,7 @@
   </a>
 - 😄 Pronouns: He/Him
 
-<h1><strong># 💻 Tech Stack</strong></h1>
+<h1><strong>💻 Tech Stack</strong></h1>
 
 Here are some of my skills:
 
