@@ -15,7 +15,7 @@
   </a>
 - 😄 Pronouns: He/Him
 
-<h2><strong>Tech Stack</strong></h2>
+<h1><strong>Tech Stack</strong></h1>
 
 Here are some of my skills:
 
@@ -29,7 +29,7 @@ Here are some of my skills:
 - **Machine Learning:** Familiar with machine learning concepts.
 - **Soft Skills:** Organizing and Communication Skills
 
-<h2><strong>Experience</strong></h2>
+<h1><strong>Experience</strong></h1>
 
 As a passionate Python Developer and Content Writer at [Techabhee.com](https://www.techabhee.com/), I am dedicated to providing valuable insights and innovative solutions in the ever-evolving world of technology.
 
@@ -41,7 +41,7 @@ As a passionate Python Developer and Content Writer at [Techabhee.com](https://w
     - Empowering readers with the latest tech trends.
     - Enhancing online presence through SEO optimization.
   
-<h2><strong>Projects</strong></h2>
+<h1><strong>Projects</strong></h1>
 
 Here are some of my notable projects:
 
@@ -59,7 +59,7 @@ Here are some of my notable projects:
    - Technologies used: List of technologies/tools used.
    - [GitHub Repository](https://github.com/Theagentvikram/TicTacToe)
 
-<h2><strong>Certifications</strong></h2>
+<h1><strong>Certifications</strong></h1>
 
 I have earned certifications in various fields. Here are some of them:
 
@@ -73,7 +73,7 @@ I have earned certifications in various fields. Here are some of them:
    - Date of Completion: [Oct 2022]
    - Description: Brief description of the certification and its relevance.
 
-<h2><strong>Interests</strong></h2>
+<h1><strong>Interests</strong></h1>
 
 Beyond coding and tech, I have diverse interests:
 
