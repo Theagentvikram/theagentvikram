@@ -11,7 +11,7 @@
 - 💬 Feel free to ask me anything related to Python, DSA, or Java.
 - 📫 You can reach me at [cherupallyabhi@gmail.com] or connect with me on LinkedIn:
   <a href="https://www.linkedin.com/in/AbhiCherupally/" target="_blank">
-    <img src="https://your-linkedin-logo-link-here" alt="LinkedIn" width="20px" height="20px"/>
+    <img src="[Linkedin](https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png)" alt="LinkedIn" width="20px" height="20px"/>
   </a>
 - 😄 Pronouns: He/Him
 
