@@ -4,7 +4,7 @@
   I'm Abhi Cherupally, a tech enthusiast with a passion for Python, DSA, and Java. Welcome to my GitHub profile!
 </p>
 
-<h2><strong>About Me</strong></h2>
+<h1><strong>About Me</strong></h1>
 
 - 🌱 I'm continuously learning and exploring new technologies.
 - 👯 I'm open to collaborations on exciting tech projects.
