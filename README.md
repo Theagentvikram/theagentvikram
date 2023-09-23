@@ -9,7 +9,7 @@
 - 🌱 I'm continuously learning and exploring new technologies.
 - 👯 I'm open to collaborations on exciting tech projects.
 - 💬 Feel free to ask me anything related to Python, DSA, or Java.
-- 📫 You can reach me at [cherupallyabhi@gmail.com] or connect with me on LinkedIn:
+- 📫 You can reach me at [cherupallyabhi@gmail.com] or connect with me on :
   <a href="https://www.linkedin.com/in/AbhiCherupally/" target="_blank">
     <img src="[Linkedin](https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png)" alt="LinkedIn" width="20px" height="20px"/>
   </a>
