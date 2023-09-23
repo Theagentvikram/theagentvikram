@@ -81,7 +81,7 @@ Beyond coding and tech, I have diverse interests:
 - Blogging about tech on [Techabhee.com](https://www.techabhee.com/)
 - Smartphone enthusiast
 
-<h2><strong>Let's Connect!</strong></h2>
+<h1><strong>Let's Connect!</strong></h1>
 
 Feel free to connect with me, explore my work, and collaborate on exciting projects. You can reach me through my email or connect with me on LinkedIn:
 <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
