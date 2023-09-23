@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-image-link-here" alt="Abhi Cherupally" />
-</p>
-
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
