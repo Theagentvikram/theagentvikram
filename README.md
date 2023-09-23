@@ -1,14 +1,4 @@
-### Hi there 👋
-
-<!--
-**Theagentvikram/theagentvikram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...<p align="center">
+<p align="center">
   <img src="https://your-image-link-here" alt="Abhi Cherupally" />
 </p>
 
@@ -103,9 +93,3 @@ Feel free to connect with me, explore my work, and collaborate on exciting proje
 </a>
 
 <!-- Customize this README template further to match your theme and style preferences. -->
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
