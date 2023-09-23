@@ -46,19 +46,23 @@ As a passionate Python Developer and Content Writer at [Techabhee.com](https://w
 Here are some of my notable projects:
 
 1. [**Fake News Detection**](https://fakenewsdetection.streamlit.app/)
-   - Technologies used: List of technologies/tools used.
+   - Technologies used: Python, Streamlit, Machine learning, Linear Regression, Stopwords, nltk.
    - [GitHub Repository](https://github.com/Theagentvikram/FakeNewsDetection)
 
 2. [**Background Remover Tool**](https://backgroundremover.streamlit.app/)
    - Description: Short description of the project.
-   - Technologies used: List of technologies/tools used.
+   - Technologies used: Python, Streamlit, Bgrem Module.
    - [GitHub Repository](https://github.com/Theagentvikram/BackgroundRemover)
 
 3. [**Tic Tac Toe Game**](tictactoe.streamlit.app)
    - Description: Short description of the project.
-   - Technologies used: List of technologies/tools used.
+   - Technologies used: Python, Streamlit
    - [GitHub Repository](https://github.com/Theagentvikram/TicTacToe)
 
+4. [**Internship Data Science Projects**]([tictactoe.streamlit.app](https://github.com/Theagentvikram/Data-Science-Projects-Intenrship))
+   - Description: Short description of the project.
+   - Technologies used: Python,Machine learning, NumPy, Pandas, Seaborn
+   - [GitHub Repository]([https://github.com/Theagentvikram/TicTacToe](https://github.com/Theagentvikram/Data-Science-Projects-Intenrship))
 <h1><strong>Certifications</strong></h1>
 
 I have earned certifications in various fields. Here are some of them:
