@@ -1,10 +1,10 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center"><strong>Hi there! 👋</strong></h1>
 
 <p align="center">
   I'm Abhi Cherupally, a tech enthusiast with a passion for Python, DSA, and Java. Welcome to my GitHub profile!
 </p>
 
-<h2>About Me</h2>
+<h2><strong>About Me</strong></h2>
 
 - 🌱 I'm continuously learning and exploring new technologies.
 - 👯 I'm open to collaborations on exciting tech projects.
@@ -15,7 +15,7 @@
   </a>
 - 😄 Pronouns: He/Him
 
-<h2>Skills</h2>
+<h2><strong>Tech Stack</strong></h2>
 
 Here are some of my skills:
 
@@ -29,7 +29,7 @@ Here are some of my skills:
 - **Machine Learning:** Familiar with machine learning concepts.
 - **Soft Skills:** Organizing and Communication Skills
 
-<h2>Experience</h2>
+<h2><strong>Experience</strong></h2>
 
 As a passionate Python Developer and Content Writer at [Techabhee.com](https://www.techabhee.com/), I am dedicated to providing valuable insights and innovative solutions in the ever-evolving world of technology.
 
@@ -41,7 +41,7 @@ As a passionate Python Developer and Content Writer at [Techabhee.com](https://w
     - Empowering readers with the latest tech trends.
     - Enhancing online presence through SEO optimization.
   
-<h2>Projects</h2>
+<h2><strong>Projects</strong></h2>
 
 Here are some of my notable projects:
 
@@ -59,7 +59,7 @@ Here are some of my notable projects:
    - Technologies used: List of technologies/tools used.
    - [GitHub Repository](https://github.com/Theagentvikram/TicTacToe)
 
-<h2>Certifications</h2>
+<h2><strong>Certifications</strong></h2>
 
 I have earned certifications in various fields. Here are some of them:
 
@@ -73,7 +73,7 @@ I have earned certifications in various fields. Here are some of them:
    - Date of Completion: [Oct 2022]
    - Description: Brief description of the certification and its relevance.
 
-<h2>Interests</h2>
+<h2><strong>Interests</strong></h2>
 
 Beyond coding and tech, I have diverse interests:
 
@@ -81,7 +81,7 @@ Beyond coding and tech, I have diverse interests:
 - Blogging about tech on [Techabhee.com](https://www.techabhee.com/)
 - Smartphone enthusiast
 
-<h2>Let's Connect!</h2>
+<h2><strong>Let's Connect!</strong></h2>
 
 Feel free to connect with me, explore my work, and collaborate on exciting projects. You can reach me through my email or connect with me on LinkedIn:
 <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
