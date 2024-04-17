@@ -54,15 +54,15 @@ Here are some of my notable projects:
    - Technologies used: Python, Streamlit, Bgrem Module.
    - [GitHub Repository](https://github.com/Theagentvikram/BackgroundRemover)
 
-3. [**Tic Tac Toe Game**](tictactoe.streamlit.app)
+3. [**Tic Tac Toe Game**](https://tictactoe.streamlit.app)
    - Description: Short description of the project.
    - Technologies used: Python, Streamlit
    - [GitHub Repository](https://github.com/Theagentvikram/TicTacToe)
 
-4. [**Internship Data Science Projects**]([tictactoe.streamlit.app](https://github.com/Theagentvikram/Data-Science-Projects-Intenrship))
+4. [**Internship Data Science Projects**]((https://github.com/Theagentvikram/Data-Science-Projects-Intenrship))
    - Description: Short description of the project.
    - Technologies used: Python,Machine learning, NumPy, Pandas, Seaborn
-   - [GitHub Repository]([https://github.com/Theagentvikram/TicTacToe](https://github.com/Theagentvikram/Data-Science-Projects-Intenrship))
+   - [GitHub Repository]([](https://github.com/Theagentvikram/Data-Science-Projects-Intenrship](https://github.com/Theagentvikram/Data-Science-Projects-Intenrship))
 <h1><strong>Certifications</strong></h1>
 
 I have earned certifications in various fields. Here are some of them:
