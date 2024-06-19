@@ -31,7 +31,7 @@ Here are some of my skills:
 
 <h1><strong>Experience</strong></h1>
 
-As a passionate Python Developer and Content Writer at [Techabhee.com](https://www.techabhee.com/), I am dedicated to providing valuable insights and innovative solutions in the ever-evolving world of technology.
+As a passionate Content Writer at [Techabhee.com](https://www.techabhee.com/), I am dedicated to providing valuable insights and innovative solutions in the ever-evolving world of technology.
 
 - **Techabhee.com:** 
   - **Position:** Content Writer
