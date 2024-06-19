@@ -59,7 +59,7 @@ Here are some of my notable projects:
    - Technologies used: Python, Streamlit
    - [GitHub Repository](https://github.com/Theagentvikram/TicTacToe)
 
-4. [**Internship Data Science Projects**]((https://github.com/Theagentvikram/Data-Science-Projects-Intenrship))
+4. [**Internship Data Science Projects**](https://github.com/Theagentvikram/Data-Science-Projects-Intenrship)
    - Description: Short description of the project.
    - Technologies used: Python,Machine learning, NumPy, Pandas, Seaborn
    - [GitHub Repository](https://github.com/Theagentvikram/Data-Science-Projects-Intenrship)
