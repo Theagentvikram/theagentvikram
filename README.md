@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Abhinay Cherupally
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%26+Real-World+Solutions;Open-Source+Enthusiast+%7C+Research+Minded" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%26+Real-World+Solutions;Open-Source+Enthusiast+%7C+Research+Minded" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
