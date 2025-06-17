@@ -1,95 +1,128 @@
-<h1 align="center"><strong>Hi there! 👋</strong></h1>
+# Hi there, I'm Abhinay! 👋
 
-<p align="center">
-  I'm Abhi Cherupally, a tech enthusiast with a passion for Python, DSA, and Java. Welcome to my GitHub profile!
-</p>
+**Final-year AI/ML student | Research Enthusiast | Full-Stack Developer**
 
-<h1><strong>About Me</strong></h1>
+I'm passionate about building intelligent systems that solve real-world problems. Currently pursuing B.Tech in Artificial Intelligence and Machine Learning at Sreenidhi Institute of Science and Technology with a CGPA of 9.02.
 
-- 🌱 I'm continuously learning and exploring new technologies.
-- 👯 I'm open to collaborations on exciting tech projects.
-- 💬 Feel free to ask me anything related to Python, DSA, or Java.
-- 📫 You can reach me at [cherupallyabhi@gmail.com] or connect with me on :
-  <a href="https://www.linkedin.com/in/AbhiCherupally/" target="_blank">
-    <img src="[Linkedin](https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png)" alt="LinkedIn" width="20px" height="20px"/>
-  </a>
-- 😄 Pronouns: He/Him
+## 🚀 What I Do
 
-<h1><strong>💻 Tech Stack</strong></h1>
+I specialize in creating **research-driven, resource-efficient systems** using open-source technologies. My work spans from computer vision and NLP to full-stack web development, always with a focus on practical applications.
 
-Here are some of my skills:
+## 🔬 Research & Publications
 
-- **Programming Languages:** Python, Java, C/C++
-- **Data Structures & Algorithms:** Proficient in data structures and algorithms.
-- **Cloud Computing:** Basic AWS knowledge.
-- **Database:** SQL
-- **Digital Marketing:** SEO Optimization, Email Marketing, Content Monetization
-- **Content Creation:** Content Writing, Blogging
-- **Web Development:** HTML, CSS, JavaScript
-- **Machine Learning:** Familiar with machine learning concepts.
-- **Soft Skills:** Organizing and Communication Skills
+**"Retail Theft Detection System using YOLOv8 and DeepSORT"** - Published in IJSREM Journal  
+*Real-time surveillance system for detecting suspicious behavior in retail environments using advanced computer vision and object tracking.*
 
-<h1><strong>Experience</strong></h1>
+## 🏆 Achievements
 
-As a passionate Content Writer at [Techabhee.com](https://www.techabhee.com/), I am dedicated to providing valuable insights and innovative solutions in the ever-evolving world of technology.
+- 🧮 **AIR 4800** in GATE 2025 (Data Science & AI)
+- 🧮 **AIR 6200** in GATE 2024 (Data Science & AI)
+- 📄 **Published Research Paper** in computer vision and retail security
 
-- **Techabhee.com:** 
-  - **Position:** Content Writer
-  - **Duration:** 3 years
-  - **Description:** 
-    - Curating engaging articles, tutorials, and reviews.
-    - Empowering readers with the latest tech trends.
-    - Enhancing online presence through SEO optimization.
-  
-<h1><strong>Projects</strong></h1>
+## 💻 Featured Projects
 
-Here are some of my notable projects:
+### 🛂 **Resume Parser with Mistral 7B**
+*Full-stack GenAI application with React + FastAPI*
+- LLM-powered resume matching using cosine similarity
+- Integrated OpenRouter APIs for intelligent job-resume matching
+- Deployed on Vercel + Render
+- **Tech:** React, FastAPI, Mistral 7B, OpenRouter APIs
 
-1. [**Fake News Detection**](https://fakenewsdetection.streamlit.app/)
-   - Technologies used: Python, Streamlit, Machine learning, Linear Regression, Stopwords, nltk.
-   - [GitHub Repository](https://github.com/Theagentvikram/FakeNewsDetection)
+### 🛒 **Retail Theft Detection System**
+*Published research project*
+- Real-time object detection and tracking using YOLOv8 + DeepSORT
+- Computer vision pipeline for surveillance video analysis
+- **Tech:** YOLOv8, DeepSORT, OpenCV, Python
 
-2. [**Background Remover Tool**](https://backgroundremover.streamlit.app/)
-   - Description: Short description of the project.
-   - Technologies used: Python, Streamlit, Bgrem Module.
-   - [GitHub Repository](https://github.com/Theagentvikram/BackgroundRemover)
+### 🧭 ** Events Map Application**
+*Interactive campus event discovery platform*
+- Dynamic college map with real-time event markers
+- Built with OpenStreetMap integration
+- **Tech:** React, JavaScript, OpenStreetMap APIs
 
-3. [**Tic Tac Toe Game**](https://tictactoe.streamlit.app)
-   - Description: Short description of the project.
-   - Technologies used: Python, Streamlit
-   - [GitHub Repository](https://github.com/Theagentvikram/TicTacToe)
+### 🤖 **Local LLM Assistant**
+*Self-hosted AI assistant using Ollama*
+- Deployed Mistral 7B locally on macOS and EC2
+- Document embeddings for contextual Q&A
+- **Tech:** Ollama, Mistral 7B, AWS EC2, Vector Embeddings
 
-4. [**Internship Data Science Projects**](https://github.com/Theagentvikram/Data-Science-Projects-Intenrship)
-   - Description: Short description of the project.
-   - Technologies used: Python,Machine learning, NumPy, Pandas, Seaborn
-   - [GitHub Repository](https://github.com/Theagentvikram/Data-Science-Projects-Intenrship)
-<h1><strong>Certifications</strong></h1>
+### 🔄 **n8n LLM Automation**
+*WhatsApp reminder automation system*
+- Personalized reminders using open-source LLMs
+- Automated workflow with message variation
+- **Tech:** n8n, LLMs, WhatsApp API
 
-I have earned certifications in various fields. Here are some of them:
+### 🧠 **ML/AI Projects**
+- **Fake News Detection:** Advanced NLP with TF-IDF and ML pipelines with Intel.
+- **Pneumonia Detection:** CNN-based medical image classification
+- **Pixel Tales:** Image-to-story generation using CNN embeddings
+- **Customer Segmentation:** Data analysis and visualization projects
 
-1. [**Object Oriented Programming Java**](https://udemy-certificate.s3.amazonaws.com/image/UC-f9d74719-04f6-4ca9-9f96-18d0471c0f07.jpg)
-   - Issued by [Udemy]
-   - Date of Completion: [Nov 2022]
-   - Description: Java Programming Concepts and Object Oriented Programming Through Java.
+## 🛠️ Tech Stack
 
-2. [**Advanced Databases and SQL Querying**](https://udemy-certificate.s3.amazonaws.com/image/UC-14dcc422-75fc-416f-9ff8-f4efb74b5f0b.jpg)
-   - Issued by [Udemy]
-   - Date of Completion: [Oct 2022]
-   - Description: Brief description of the certification and its relevance.
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h1><strong>Interests</strong></h1>
+### **AI/ML & Computer Vision**
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6B6B?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-Beyond coding and tech, I have diverse interests:
+### **Web Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- Playing Chess, Cricket, Badminton
-- Blogging about tech on [Techabhee.com](https://www.techabhee.com/)
-- Smartphone enthusiast
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h1><strong>Let's Connect!</strong></h1>
+### **LLMs & AI Tools**
+![Mistral](https://img.shields.io/badge/Mistral_7B-FF7000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-4285F4?style=for-the-badge)
 
-Feel free to connect with me, explore my work, and collaborate on exciting projects. You can reach me through my email or connect with me on LinkedIn:
-<a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
-  <img src="https://your-linkedin-logo-link-here" alt="LinkedIn" width="20px" height="20px"/>
-</a>
+### **Automation & Workflow**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-<!-- Customize this README template further to match your theme and style preferences. -->
+## 📊 GitHub Stats
+
+![Abhinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🌱 Currently Working On
+
+- 🎯 Preparing for **AWS Developer Associate** certification
+- 🐧 Pursuing **Red Hat Certified System Administrator (RHCSA)**
+- 🔬 Expanding research in **applied AI** and **computer vision**
+- 🌐 Building network with researchers in top U.S. universities
+
+## 💡 Beyond Code
+
+- 📱 **Tech Blogger** at [Techabhee.com](https://www.techabhee.com/) - smartphone reviews and tech analysis
+- 🛍️ **Amazon Affiliate Associate** - combining SEO and content strategy
+- 🎯 **Content Creator** - digital marketing and tech trends
+
+## 🎯 Goals
+
+Preparing for **MS in Data Science/Machine Learning** with a focus on contributing to **applied AI research**, open-source innovation, and building technology for real-world impact.
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AbhiCherupally/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cherupallyabhi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+---
+
+⭐ **Open to collaborations on AI/ML projects, research opportunities, and innovative tech solut
