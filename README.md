@@ -1,128 +1,133 @@
-# Hi there, I'm Abhinay! 👋
+# Hi there! 👋 I'm Abhinay Cherupally
 
-**Final-year AI/ML student | Research Enthusiast | Full-Stack Developer**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%26+Real-World+Solutions;Open-Source+Enthusiast+%7C+Research+Minded" alt="Typing SVG" />
+</div>
 
-I'm passionate about building intelligent systems that solve real-world problems. Currently pursuing B.Tech in Artificial Intelligence and Machine Learning at Sreenidhi Institute of Science and Technology with a CGPA of 9.02.
+## 🚀 About Me
 
-## 🚀 What I Do
+Final-year **AI & ML** undergraduate at Sreenidhi Institute of Science and Technology. I specialize in designing intelligent systems that bridge research and real-world applications, focusing on resource-efficient solutions built with open-source technologies.
 
-I specialize in creating **research-driven, resource-efficient systems** using open-source technologies. My work spans from computer vision and NLP to full-stack web development, always with a focus on practical applications.
-
-## 🔬 Research & Publications
-
-**"Retail Theft Detection System using YOLOv8 and DeepSORT"** - Published in IJSREM Journal  
-*Real-time surveillance system for detecting suspicious behavior in retail environments using advanced computer vision and object tracking.*
-
-## 🏆 Achievements
-
-- 🧮 **AIR 4800** in GATE 2025 (Data Science & AI)
-- 🧮 **AIR 6200** in GATE 2024 (Data Science & AI)
-- 📄 **Published Research Paper** in computer vision and retail security
-
-## 💻 Featured Projects
-
-### 🛂 **Resume Parser with Mistral 7B**
-*Full-stack GenAI application with React + FastAPI*
-- LLM-powered resume matching using cosine similarity
-- Integrated OpenRouter APIs for intelligent job-resume matching
-- Deployed on Vercel + Render
-- **Tech:** React, FastAPI, Mistral 7B, OpenRouter APIs
-
-### 🛒 **Retail Theft Detection System**
-*Published research project*
-- Real-time object detection and tracking using YOLOv8 + DeepSORT
-- Computer vision pipeline for surveillance video analysis
-- **Tech:** YOLOv8, DeepSORT, OpenCV, Python
-
-### 🧭 ** Events Map Application**
-*Interactive campus event discovery platform*
-- Dynamic college map with real-time event markers
-- Built with OpenStreetMap integration
-- **Tech:** React, JavaScript, OpenStreetMap APIs
-
-### 🤖 **Local LLM Assistant**
-*Self-hosted AI assistant using Ollama*
-- Deployed Mistral 7B locally on macOS and EC2
-- Document embeddings for contextual Q&A
-- **Tech:** Ollama, Mistral 7B, AWS EC2, Vector Embeddings
-
-### 🔄 **n8n LLM Automation**
-*WhatsApp reminder automation system*
-- Personalized reminders using open-source LLMs
-- Automated workflow with message variation
-- **Tech:** n8n, LLMs, WhatsApp API
-
-### 🧠 **ML/AI Projects**
-- **Fake News Detection:** Advanced NLP with TF-IDF and ML pipelines with Intel.
-- **Pneumonia Detection:** CNN-based medical image classification
-- **Pixel Tales:** Image-to-story generation using CNN embeddings
-- **Customer Segmentation:** Data analysis and visualization projects
+- 🧠 **Research Focus**: Computer Vision, NLP, and Applied Machine Learning
+- 🔬 **Published Research**: "Retail Theft Detection System using YOLOv8 and DeepSORT" (IJSREM Journal)
+- 🎯 **GATE Achievements**: AIR 4800 (2025) & AIR 6200 (2024) in Data Science & AI
+- 🌱 Currently exploring **AWS Developer Associate** and **RHCSA** certifications
+- 📝 Tech Content Creator at [Techabhee.com](https://www.techabhee.com/)
+- 🎯 **Goal**: MS in Data Science/ML & contributing to applied AI research
 
 ## 🛠️ Tech Stack
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-### **AI/ML & Computer Vision**
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6B6B?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+### AI/ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### **Web Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### **LLMs & AI Tools**
-![Mistral](https://img.shields.io/badge/Mistral_7B-FF7000?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-4285F4?style=for-the-badge)
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### **Automation & Workflow**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+## 🎯 Featured Projects
 
-## 📊 GitHub Stats
+### 🤖 [Resume Parser with Mistral 7B + React + FastAPI](https://github.com/theagentvikram/ResuMatch)
+A full-stack GenAI application that intelligently matches resumes with job descriptions using **LLMs from OpenRouter**, **cosine similarity**, and **PDF parsing**. Deployed on **Vercel + Render**.
 
-![Abhinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+**Tech**: Python, FastAPI, React, Mistral 7B, OpenRouter APIs, Cosine Similarity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+### 🛒 [Retail Theft Detection using YOLOv8 + DeepSORT](https://github.com/theagentvikram/ShopliftingDetection)
+**Published Research Project** - Real-time surveillance system that detects suspicious behavior in retail environments using computer vision and object tracking.
 
-## 🌱 Currently Working On
+**Tech**: Python, YOLOv8, DeepSORT, OpenCV, Computer Vision
+**Publication**: IJSREM Journal
 
-- 🎯 Preparing for **AWS Developer Associate** certification
-- 🐧 Pursuing **Red Hat Certified System Administrator (RHCSA)**
-- 🔬 Expanding research in **applied AI** and **computer vision**
-- 🌐 Building network with researchers in top U.S. universities
+### 📰 [Fake News Detection System](https://fakenewsdetection.streamlit.app/)
+Advanced NLP-based binary classification system built during Intel Corporation project. Features comprehensive ML pipelines with TF-IDF and visualization tools.
 
-## 💡 Beyond Code
+**Tech**: Python, Streamlit, NLP, Scikit-learn, TF-IDF
+**Live Demo**: [fakenewsdetection.streamlit.app](https://fakenewsdetection.streamlit.app/)
 
-- 📱 **Tech Blogger** at [Techabhee.com](https://www.techabhee.com/) - smartphone reviews and tech analysis
-- 🛍️ **Amazon Affiliate Associate** - combining SEO and content strategy
-- 🎯 **Content Creator** - digital marketing and tech trends
+### 🗺️ [ Events Map Application](https://github.com/theagentvikram/FAUEvents)
+React-based event discovery platform for students featuring dynamic college mapping and real-time event markers using **OpenStreetMap**.
 
-## 🎯 Goals
+**Tech**: React, JavaScript, OpenStreetMap, UI/UX Design
 
-Preparing for **MS in Data Science/Machine Learning** with a focus on contributing to **applied AI research**, open-source innovation, and building technology for real-world impact.
+### ⚡ [n8n + LLM WhatsApp Automation](https://github.com/theagentvikram/n8nReminder)
+Automated personalized reminder system using **open-source LLMs + n8n workflows** with message variation to prevent notification fatigue.
 
-## 📫 Let's Connect!
+**Tech**: n8n, LLMs, WhatsApp API, Automation Workflows
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AbhiCherupally/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cherupallyabhi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theagentvikram&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theagentvikram&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theagentvikram&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🏆 Achievements & Recognition
+
+- 🥇 **AIR 4800** - GATE 2025 (Data Science & AI)
+- 🥈 **AIR 6200** - GATE 2024 (Data Science & AI)
+- 📚 **Research Publication** - "Retail Theft Detection System using YOLOv8 and DeepSORT" (IJSREM Journal)
+- 🎓 **Academic Excellence** - 9.02 CGPA in AI & ML
+- 📝 **Tech Content Creator** - 3+ years at Techabhee.com
+- 🏆 **Amazon Affiliate Associate** - Content strategy & audience targeting
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbhiCherupally)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbhiCherupally)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhi_cherupally)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Techabhee)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cherupallyabhi@gmail.com)
+
+</div>
+
+## 💭 Current Focus
+
+```python
+class AbhinayCherupally:
+    def __init__(self):
+        self.current_work = "Final Year AI/ML Student"
+        self.research_interests = ["Computer Vision", "NLP", "Applied ML"]
+        self.learning = ["AWS Developer Associate", "RHCSA", "Advanced Deep Learning"]
+        self.goals = ["MS in Data Science/ML", "Open-Source Contributions", "Applied AI Research"]
+        self.fun_fact = "I analyze smartphones and write tech reviews in my free time!"
+    
+    def get_current_status(self):
+        return "Building intelligent systems that bridge research and real-world impact 🚀"
+```
 
 ---
 
-⭐ **Open to collaborations on AI/ML projects, research opportunities, and innovative tech solut
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=theagentvikram&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  **"Transforming ideas into intelligent solutions, one commit at a time."**
+</div>
