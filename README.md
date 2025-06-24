@@ -67,10 +67,6 @@ Advanced NLP-based binary classification system built during Intel Corporation p
 **Tech**: Python, Streamlit, NLP, Scikit-learn, TF-IDF
 **Live Demo**: [fakenewsdetection.streamlit.app](https://fakenewsdetection.streamlit.app/)
 
-### 🗺️ [ Events Map Application](https://github.com/theagentvikram/FAUEvents)
-React-based event discovery platform for students featuring dynamic college mapping and real-time event markers using **OpenStreetMap**.
-
-**Tech**: React, JavaScript, OpenStreetMap, UI/UX Design
 
 ### ⚡ [n8n + LLM WhatsApp Automation](https://github.com/theagentvikram/n8nReminder)
 Automated personalized reminder system using **open-source LLMs + n8n workflows** with message variation to prevent notification fatigue.
