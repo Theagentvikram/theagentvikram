@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Abhinay Cherupally
+# Hi there! 👋 I'm Cherupally
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%26+Real-World+Solutions;Open-Source+Enthusiast+%7C+Research+Minded" alt="Typing SVG" />
@@ -6,14 +6,12 @@
 
 ## 🚀 About Me
 
-Final-year **AI & ML** undergraduate at Sreenidhi Institute of Science and Technology. I specialize in designing intelligent systems that bridge research and real-world applications, focusing on resource-efficient solutions built with open-source technologies.
+I specialize in designing intelligent systems that bridge research and real-world applications, focusing on resource-efficient solutions built with open-source technologies.
 
 - 🧠 **Research Focus**: Computer Vision, NLP, and Applied Machine Learning
 - 🔬 **Published Research**: "Retail Theft Detection System using YOLOv8 and DeepSORT" (IJSREM Journal)
 - 🎯 **GATE Achievements**: AIR 4800 (2025) & AIR 6200 (2024) in Data Science & AI
 - 🌱 Currently exploring **AWS Developer Associate** and **RHCSA** certifications
-- 📝 Tech Content Creator at [Techabhee.com](https://www.techabhee.com/)
-- 🎯 **Goal**: MS in Data Science/ML & contributing to applied AI research
 
 ## 🛠️ Tech Stack
 
@@ -89,8 +87,7 @@ Automated personalized reminder system using **open-source LLMs + n8n workflows*
 - 🥇 **AIR 4800** - GATE 2025 (Data Science & AI)
 - 🥈 **AIR 6200** - GATE 2024 (Data Science & AI)
 - 📚 **Research Publication** - "Retail Theft Detection System using YOLOv8 and DeepSORT" (IJSREM Journal)
-- 🎓 **Academic Excellence** - 9.02 CGPA in AI & ML
-- 📝 **Tech Content Creator** - 3+ years at Techabhee.com
+- 🎓 **Academic Excellence** - 8.91 CGPA in AI & ML
 - 🏆 **Amazon Affiliate Associate** - Content strategy & audience targeting
 
 ## 🌐 Connect With Me
@@ -108,9 +105,8 @@ Automated personalized reminder system using **open-source LLMs + n8n workflows*
 ## 💭 Current Focus
 
 ```python
-class AbhinayCherupally:
+class Cherupally:
     def __init__(self):
-        self.current_work = "Final Year AI/ML Student"
         self.research_interests = ["Computer Vision", "NLP", "Applied ML"]
         self.learning = ["AWS Developer Associate", "RHCSA", "Advanced Deep Learning"]
         self.goals = ["MS in Data Science/ML", "Open-Source Contributions", "Applied AI Research"]
